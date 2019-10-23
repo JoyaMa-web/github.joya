@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/JoyaMa-web/github.joya/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+![alt text](5e8f3400954730c1716f720af96e2482_hd.jpg "My picture")
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
